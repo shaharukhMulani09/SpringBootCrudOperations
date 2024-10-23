@@ -37,7 +37,7 @@ public class service {
 	
 	public void delete(int id) {
 		
-		return repo.deleteById(id);
+		 repo.deleteById(id);
 	}
 	
 	
